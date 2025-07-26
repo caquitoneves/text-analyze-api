@@ -1,6 +1,3 @@
-git clone https://github.com/seuusuario/text-analyzer-api
-
-
 # 📝 Text Analyzer API
 
 Uma API inteligente para análise de textos, desenvolvida com NestJS. Ideal para portfólio, estudos e aplicações reais!
